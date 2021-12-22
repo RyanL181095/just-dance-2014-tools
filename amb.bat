@@ -1,0 +1,2 @@
+py amb.py
+pause

@@ -1,0 +1,341 @@
+{
+    "__class": "Actor_Template",
+    "WIP": 0,
+    "LOWUPDATE": 0,
+    "UPDATE_LAYER": 0,
+    "PROCEDURAL": 0,
+    "STARTPAUSED": 0,
+    "FORCEISENVIRONMENT": 0,
+    "COMPONENTS": [{
+            "__class": "JD_BlockFlowTemplate",
+            "IsMashUp": 1,
+            "IsPartyMaster": 0,
+            "BlockDescriptorVector": [{
+                    "__class": "IntroBlock",
+                    "songName": "PrinceAli",
+                    "frstBeat": 0,
+                    "lastBeat": 6,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "PrinceAli",
+                    "frstBeat": 6,
+                    "lastBeat": 22,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "CrazyInLove_84",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.03385400027036667, 0.0625],
+                    "videoCoachScale": 0.9376000165939331,
+                    "danceStepName": ""
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "PrinceAli",
+                    "frstBeat": 22,
+                    "lastBeat": 38,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "RichGirlZero_151",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.013020999729633331, 0.01822900027036667],
+                    "videoCoachScale": 1.007200002670288,
+                    "danceStepName": "undefined"
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "PrinceAli",
+                    "frstBeat": 38,
+                    "lastBeat": 62,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "FineChinaALT",
+                    "frstBeat": 290,
+                    "lastBeat": 314,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.03384999930858612, -0.009999999776482582],
+                    "videoCoachScale": 1.0099999904632568,
+                    "danceStepName": "Pretentious"
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "PrinceAli",
+                    "frstBeat": 62,
+                    "lastBeat": 78,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "Superstition_83",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.02864599972963333, 0.026041999459266663],
+                    "videoCoachScale": 0.9678000211715698,
+                    "danceStepName": "Crab Dance"
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "PrinceAli",
+                    "frstBeat": 78,
+                    "lastBeat": 94,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "FineChinaZero_138",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.03645800054073334, 0.06510400027036667],
+                    "videoCoachScale": 0.9376000165939331,
+                    "danceStepName": "undefined"
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "PrinceAli",
+                    "frstBeat": 94,
+                    "lastBeat": 110,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "GotMeDancing_20",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.013020999729633331, 0.0625],
+                    "videoCoachScale": 0.9613999724388123,
+                    "danceStepName": "Step In Style"
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "PrinceAli",
+                    "frstBeat": 110,
+                    "lastBeat": 126,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "WildWildWestALT_115",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [-0.015625, 0.07552099972963333],
+                    "videoCoachScale": 1.0498000383377075,
+                    "danceStepName": ""
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "PrinceAli",
+                    "frstBeat": 126,
+                    "lastBeat": 142,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "Wannabe_31",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.044270001351833344, 0.05468999966979027],
+                    "videoCoachScale": 0.95660001039505,
+                    "danceStepName": "Peace And Love"
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "PrinceAli",
+                    "frstBeat": 142,
+                    "lastBeat": 158,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "FunHouse_75",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.044270001351833344, 0.005210000090301037],
+                    "videoCoachScale": 1.1069999933242798,
+                    "danceStepName": ""
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "PrinceAli",
+                    "frstBeat": 158,
+                    "lastBeat": 174,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "Superstition_83",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.02864599972963333, 0.026041999459266663],
+                    "videoCoachScale": 0.9678000211715698,
+                    "danceStepName": "Crab Dance"
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "PrinceAli",
+                    "frstBeat": 174,
+                    "lastBeat": 190,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "FineChinaZero_138",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.03645800054073334, 0.06510400027036667],
+                    "videoCoachScale": 0.9376000165939331,
+                    "danceStepName": "undefined"
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "PrinceAli",
+                    "frstBeat": 190,
+                    "lastBeat": 206,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "Wannabe_31",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.044270001351833344, 0.05468999966979027],
+                    "videoCoachScale": 0.95660001039505,
+                    "danceStepName": "Peace And Love"
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "PrinceAli",
+                    "frstBeat": 206,
+                    "lastBeat": 222,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "FunHouse_75",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.044270001351833344, 0.005210000090301037],
+                    "videoCoachScale": 1.1069999933242798,
+                    "danceStepName": ""
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "PrinceAli",
+                    "frstBeat": 222,
+                    "lastBeat": 238,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "BarbraStreisand_20",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.03125, 0.109375],
+                    "videoCoachScale": 0.9296000003814697,
+                    "danceStepName": "Hips Lock"
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "PrinceAli",
+                    "frstBeat": 238,
+                    "lastBeat": 254,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "Dance_32",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.02864599972963333, 0.09635400027036667],
+                    "videoCoachScale": 0.9470000267028809,
+                    "danceStepName": "Teenage Hops"
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "PrinceAli",
+                    "frstBeat": 254,
+                    "lastBeat": 270,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "Beauty_328",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [-0.015625, -0.01822900027036667],
+                    "videoCoachScale": 1.083400011062622,
+                    "danceStepName": "What's Up"
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "PrinceAli",
+                    "frstBeat": 270,
+                    "lastBeat": 286,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "Dare_36",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [-0.04947900027036667, 0.05989599972963333],
+                    "videoCoachScale": 0.991599977016449,
+                    "danceStepName": "Football Boogie"
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "PrinceAli",
+                    "frstBeat": 286,
+                    "lastBeat": 294,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,521 @@
+{
+    "__class": "Actor_Template",
+    "WIP": 0,
+    "LOWUPDATE": 0,
+    "UPDATE_LAYER": 0,
+    "PROCEDURAL": 0,
+    "STARTPAUSED": 0,
+    "FORCEISENVIRONMENT": 0,
+    "COMPONENTS": [{
+            "__class": "JD_BlockFlowTemplate",
+            "IsMashUp": 1,
+            "IsPartyMaster": 0,
+            "BlockDescriptorVector": [{
+                    "__class": "IntroBlock",
+                    "songName": "Cmon",
+                    "frstBeat": 0,
+                    "lastBeat": 3,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "Cmon",
+                    "frstBeat": 3,
+                    "lastBeat": 19,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "Fame_8",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.00520800007507205, 0.015625],
+                    "videoCoachScale": 1.007200002670288,
+                    "danceStepName": ""
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "Cmon",
+                    "frstBeat": 19,
+                    "lastBeat": 35,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "DunNDusted_25",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [-0.015625, 0.02864599972963333],
+                    "videoCoachScale": 1.048200011253357,
+                    "danceStepName": "Arms Circle"
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "Cmon",
+                    "frstBeat": 35,
+                    "lastBeat": 51,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "IWasMadeFITNESS_56",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [-0.054687999188899994, 0.0703129991889],
+                    "videoCoachScale": 0.9991999864578247,
+                    "danceStepName": "Aerobics"
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "Cmon",
+                    "frstBeat": 51,
+                    "lastBeat": 67,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "DiscoBallMan2_250",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [-0.04427099972963333, 0.013020999729633331],
+                    "videoCoachScale": 1.045199990272522,
+                    "danceStepName": "Disco Fighting"
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "Cmon",
+                    "frstBeat": 67,
+                    "lastBeat": 83,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "LimboSWT",
+                    "frstBeat": 68,
+                    "lastBeat": 84,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.018230000510811806, 0.05990000069141388],
+                    "videoCoachScale": 0.9581999778747559,
+                    "danceStepName": ""
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "Cmon",
+                    "frstBeat": 83,
+                    "lastBeat": 99,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "GhostbustersSWT",
+                    "frstBeat": 91,
+                    "lastBeat": 107,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.015625, 0.01822900027036667],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": "Punching High"
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "Cmon",
+                    "frstBeat": 99,
+                    "lastBeat": 115,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "FollowTheLeaderSWT",
+                    "frstBeat": 103,
+                    "lastBeat": 119,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.026041999459266663, 0.023437999188899994],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": "Intense Jumps"
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "Cmon",
+                    "frstBeat": 115,
+                    "lastBeat": 131,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "GhostbustersSWT",
+                    "frstBeat": 75,
+                    "lastBeat": 91,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.015625, 0.01822900027036667],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "Cmon",
+                    "frstBeat": 131,
+                    "lastBeat": 147,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "IKissedSWT",
+                    "frstBeat": 123,
+                    "lastBeat": 139,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.04947900027036667, 0.02864599972963333],
+                    "videoCoachScale": 0.9549999833106995,
+                    "danceStepName": "Knee Punch"
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "Cmon",
+                    "frstBeat": 147,
+                    "lastBeat": 163,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "Boomsday_380",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [-0.02864599972963333, 0.05208300054073334],
+                    "videoCoachScale": 0.9660000205039978,
+                    "danceStepName": "Top Punches"
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "Cmon",
+                    "frstBeat": 163,
+                    "lastBeat": 179,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "IWasMadeFITNESS_532",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [-0.054687999188899994, 0.0703129991889],
+                    "videoCoachScale": 0.9991999864578247,
+                    "danceStepName": ""
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "Cmon",
+                    "frstBeat": 179,
+                    "lastBeat": 195,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "DiscoBallMan2_250",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [-0.04427099972963333, 0.013020999729633331],
+                    "videoCoachScale": 1.045199990272522,
+                    "danceStepName": "Disco Fighting"
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "Cmon",
+                    "frstBeat": 195,
+                    "lastBeat": 211,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "LimboSWT",
+                    "frstBeat": 68,
+                    "lastBeat": 84,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.018230000510811806, 0.05990000069141388],
+                    "videoCoachScale": 0.9581999778747559,
+                    "danceStepName": ""
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "Cmon",
+                    "frstBeat": 211,
+                    "lastBeat": 227,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "GhostbustersSWT",
+                    "frstBeat": 91,
+                    "lastBeat": 107,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.015625, 0.01822900027036667],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": "Punching High"
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "Cmon",
+                    "frstBeat": 227,
+                    "lastBeat": 243,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "FollowTheLeaderSWT",
+                    "frstBeat": 103,
+                    "lastBeat": 119,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.026041999459266663, 0.023437999188899994],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": "Intense Jumps"
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "Cmon",
+                    "frstBeat": 243,
+                    "lastBeat": 259,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "GhostbustersSWT",
+                    "frstBeat": 75,
+                    "lastBeat": 91,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.015625, 0.01822900027036667],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "Cmon",
+                    "frstBeat": 259,
+                    "lastBeat": 275,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "DiscoBallMan2_225",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [-0.02864599972963333, 0.023437999188899994],
+                    "videoCoachScale": 1.010200023651123,
+                    "danceStepName": "572522496 2290649224 2290754082"
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "Cmon",
+                    "frstBeat": 275,
+                    "lastBeat": 291,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "Boomsday_380",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [-0.02864599972963333, 0.05208300054073334],
+                    "videoCoachScale": 0.9660000205039978,
+                    "danceStepName": "Top Punches"
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "Cmon",
+                    "frstBeat": 291,
+                    "lastBeat": 307,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "IWasMadeFITNESS_8",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [-0.054687999188899994, 0.0703129991889],
+                    "videoCoachScale": 0.9991999864578247,
+                    "danceStepName": ""
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "Cmon",
+                    "frstBeat": 307,
+                    "lastBeat": 323,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "SheWolfZero_84",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.04166699945926666, 0.054687999188899994],
+                    "videoCoachScale": 0.9330000281333923,
+                    "danceStepName": "Drama Queen"
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "Cmon",
+                    "frstBeat": 323,
+                    "lastBeat": 339,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "DunNDusted_9",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [-0.015625, 0.02864599972963333],
+                    "videoCoachScale": 1.048200011253357,
+                    "danceStepName": ""
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "Cmon",
+                    "frstBeat": 339,
+                    "lastBeat": 355,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "Boomsday_292",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [-0.02864599972963333, 0.05208300054073334],
+                    "videoCoachScale": 0.9660000205039978,
+                    "danceStepName": "Mechanic Stretch"
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "Cmon",
+                    "frstBeat": 355,
+                    "lastBeat": 371,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "LimboSWT",
+                    "frstBeat": 452,
+                    "lastBeat": 468,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.018230000510811806, 0.05990000069141388],
+                    "videoCoachScale": 0.9581999778747559,
+                    "danceStepName": "Energetic Rising"
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "Cmon",
+                    "frstBeat": 371,
+                    "lastBeat": 387,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "FollowTheLeaderSWT",
+                    "frstBeat": 191,
+                    "lastBeat": 207,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.026041999459266663, 0.023437999188899994],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "Cmon",
+                    "frstBeat": 387,
+                    "lastBeat": 403,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "GhostbustersSWT",
+                    "frstBeat": 123,
+                    "lastBeat": 139,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.015625, 0.04427099972963333],
+                    "videoCoachScale": 0.9660000205039978,
+                    "danceStepName": ""
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "Cmon",
+                    "frstBeat": 403,
+                    "lastBeat": 419,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "IWasMadeFITNESS_312",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [-0.054687999188899994, 0.0703129991889],
+                    "videoCoachScale": 0.9991999864578247,
+                    "danceStepName": ""
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "Cmon",
+                    "frstBeat": 419,
+                    "lastBeat": 435,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }, {
+                    "__class": "AltBlock",
+                    "songName": "MoveYourFeet_80",
+                    "frstBeat": 0,
+                    "lastBeat": 16,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.05208300054073334, 0.03645800054073334],
+                    "videoCoachScale": 0.9628000259399414,
+                    "danceStepName": "Come On"
+                }, {
+                    "__class": "BaseBlock",
+                    "songName": "Cmon",
+                    "frstBeat": 435,
+                    "lastBeat": 446,
+                    "songSwitch": 0.0,
+                    "videoCoachOffset": [0.0, 0.0],
+                    "videoCoachScale": 1.0,
+                    "danceStepName": ""
+                }
+            ]
+        }
+    ]
+}

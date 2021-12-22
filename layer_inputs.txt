@@ -1,0 +1,22 @@
+You don't have to put all of these in, but you should still include Moves1, Lyrics, Pictos, and Events_0.
+
+You can also change the id inputs as long as it's not the same value between each other.
+
+{
+    "layers": [{
+		"Lyrics": 1,
+		"Moves1": 2,
+		"Moves2": 3,
+		"Moves3": 4,
+		"Moves4": 5,
+		"Pictos": 6,
+		"KinectMoves1": 7,
+		"KinectMoves2": 8,
+		"KinectMoves3": 9,
+		"KinectMoves4": 10,
+		"Events_0": 11,
+		"BPM": 13,
+		"KaraokeScoring": 12
+		}
+    ]
+}

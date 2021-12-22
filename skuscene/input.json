@@ -1,0 +1,10 @@
+[
+	{
+		"basedb": ["skuscene"],
+		
+        "songs": ["Map01", "Map02", "Map03"],
+		
+		"sku": ["jd2016-wii-noa"],
+		"territory": ["NCSA"]
+    }
+]
